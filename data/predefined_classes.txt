@@ -4,3 +4,10 @@ crosswalk sign
 parking sign
 priority sign
 stop sign
+roundabout sign
+highway sign
+highway end sign
+no entry sign
+one-way sign
+traffic light
+barricade
